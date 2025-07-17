@@ -17,4 +17,3 @@ then get your api key from @BotFather, create .env
 run the python file!
 ```python main.py```
 
-# image-text-bot
